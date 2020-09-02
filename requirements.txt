@@ -9,3 +9,4 @@ oauth2client
 PyOpenSSL
 requests
 lzstring
+boto3
